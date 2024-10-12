@@ -1,0 +1,36 @@
+I_rod_by_end = 1/3 M L ^2
+
+T = I angular a
+
+a/r = angular a
+
+T = 1/3 M L^2 * a / L
+
+a = g = 9.8
+
+T = 3.27 * M L
+
+T = 3.27 * 13 g * 12 cm
+
+T = 3.27 * 0.013 kg * 0.12 m
+
+T = 0.0052 N m = 0.52 N cm
+
+According to YT video, Micro Servo Max Torque = 6.44 N cm, so we chilling
+
+https://www.youtube.com/watch?v=PEcW4ja_glE 
+
+
+T = 3.27 * 90 g * 24 cm
+T = 3.27 * 0.090 kg * 0.24 m
+T = 0.070632 N m = 7.0 N cm
+
+
+also: https://www.mscdirect.com/basicsof/torque-conversions
+
+1 Kg-Cm * 0.092 = 1 Newton meters
+
+
+from: https://opencircuit.shop/product/towerpro-sg90-9g-micro-servo-motor-180
+
+torque sg 90 = 1.6 kg cm = 0.1472 N m = 14.72 N cm
